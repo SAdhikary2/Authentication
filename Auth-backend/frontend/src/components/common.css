@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.register{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../public/images/back.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%; 
+}
+
+.formsec{
+    background-color: transparent;
+    width: 30vw;
+    color: white;
+    padding: 40px;
+    box-shadow: 3px 3px 5px rgb(105, 104, 104);
+    border: 1px solid rgb(192, 192, 192);
+    /* margin-bottom: 150px; */
+ 
+}
+
+
+.formsec a{
+    color: red;
+}
+
+.formsec h2{
+    margin-bottom: 20px;
+  
+}
+.formsec p{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
